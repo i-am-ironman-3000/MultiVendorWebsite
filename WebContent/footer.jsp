@@ -78,10 +78,6 @@
                     <div class="col-md-6 copyright">
                         <p>Copyright &copy; <a href="https://htmlcodex.com">Vaibhav</a>. All Rights Reserved</p>
                     </div>
-
-                    <div class="col-md-6 template-by">
-                        <p>Vaibhav Mishra</p>
-                    </div>
                 </div>
             </div>
         </div>
